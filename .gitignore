@@ -39,8 +39,8 @@ ENV/
 settings.json
 
 # Ignore icon and sound files if not tracked
-*.ico
-*.wav
+.ico
+.wav
 .ruff_cache/
 gemini.md
 pomodoro.log
