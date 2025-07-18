@@ -1,0 +1,47 @@
+gemini.md
+pomodoro.log
+todo.md
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Windows executables
+*.exe
+*.dll
+*.pyd
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Python virtual environments
+env/
+venv/
+ENV/
+
+# Misc
+*.bak
+*.tmp
+
+# Ignore settings and user data
+settings.json
+
+# Ignore icon and sound files if not tracked
+*.ico
+*.wav
+.ruff_cache/
+gemini.md
+pomodoro.log
+todo.md
